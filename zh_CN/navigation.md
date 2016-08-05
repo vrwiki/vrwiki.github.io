@@ -21,6 +21,19 @@
 
 [About](pages/about.md)
 [Download](pages/download.md)
+[HowToGoogle](pages/googlestudy.md)
+
+[Menu Item 1]()
+
+  * # SubMenu Heading 1
+  * [SubMenu Item 1](pages/googlestudy.md)
+  - - - -
+  * # SubMenu Heading 2
+  * [SubMenu Item 3](pages/googlestudy.md)
+  - - - -
+  * # SubMenu Heading 3
+  * [SubMenu Item 3](pages/googlestudy.md)
+
 
 <!-- A more complex navigation example: ----------------------------------------
 
