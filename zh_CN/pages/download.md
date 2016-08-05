@@ -1,4 +1,4 @@
-# Dowload Page
+# Download Page
 
 
 ## Section 1
