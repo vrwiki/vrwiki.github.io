@@ -22,3 +22,4 @@ Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam id dolor id 
 ## Section 3
 ![p1](https://raw.githubusercontent.com/vrwiki/vrwiki.github.io/master/zh_CN/pages/uploads/images/test.jpg)
 ![p1](uploads\images\test.jpg)
+![](../res/test.png)
