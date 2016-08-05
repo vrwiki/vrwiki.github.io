@@ -16,7 +16,7 @@ Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam id dolor id 
 
 
 ## Section 3
-![图1](uploads/images/test.jpg/)
+![图1](https://raw.githubusercontent.com/vrwiki/vrwiki.github.io/master/zh_CN/pages/uploads/images/test.jpg)
 
 This text is preceded by two images, that span across the whole Page width.
 
