@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# Your wiki name
+# VRWiki
 
 
 <!--
@@ -32,7 +32,7 @@
   * [SubMenu Item 3](pages/googlestudy.md)
   - - - -
   * # SubMenu Heading 3
-  * [SubMenu Item 3](pages/googlestudy.md)
+  * [SubMenu Item 3](pages/subitem3.md)
 
 
 <!-- A more complex navigation example: ----------------------------------------
