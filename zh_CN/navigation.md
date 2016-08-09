@@ -23,16 +23,12 @@
 [Download](pages/download.md)
 [HowToGoogle](pages/googlestudy.md)
 
-[Menu Item 1]()
+[Pool Manager使用心得]()
 
   * # SubMenu Heading 1
-  * [SubMenu Item 1](pages/googlestudy.md)
+  * [从创建开始](pages/PoolManagerGetStarted.md)
   - - - -
-  * # SubMenu Heading 2
-  * [SubMenu Item 3](pages/googlestudy.md)
-  - - - -
-  * # SubMenu Heading 3
-  * [SubMenu Item 3](pages/subitem3.md)
+
 
 
 <!-- A more complex navigation example: ----------------------------------------
