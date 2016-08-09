@@ -26,7 +26,7 @@
 [Pool Manager使用心得]()
 
   * # SubMenu Heading 1
-  * [从创建开始](pages/PoolManagerGetStarted.md)
+  * [从创建开始](pages/PoolManager/PoolManagerGetStarted.md)
   - - - -
 
 
