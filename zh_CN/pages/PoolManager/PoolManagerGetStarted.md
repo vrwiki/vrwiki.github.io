@@ -1,5 +1,6 @@
 # PoolManager使用心得
 
+
 ## 从创建开始
 
 ### 1.在Unity场景中的一个物体上,添加Spawn组件.
@@ -36,6 +37,8 @@ public void OnDespawned()
   //这里相当与Start()
 }
 ```
+
+## 其他
 
 ### 6.还有一些其他选项
 #### Match Pool Scale
