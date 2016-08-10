@@ -23,12 +23,12 @@
 [Download](pages/download.md)
 [HowToGoogle](pages/googlestudy.md)
 
-[Issuses]()
-* [Unity](pages/issues/unity.md)
+[Issue]()
+
+  * [Unity](pages/issues/unity.md)
 
 [Pool Manager使用心得]()
 
-  * # SubMenu Heading 1
   * [从创建开始](pages/PoolManager/PoolManagerGetStarted.md)
   - - - -
 
